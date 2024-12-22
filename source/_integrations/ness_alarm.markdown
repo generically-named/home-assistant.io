@@ -112,9 +112,9 @@ As part of the installation process of the IP232 module, the device will need to
 
 If the settings in steps 1 and 2 are not set correctly, the integration will not be able to communicate properly with the device. If the `P 199 E` from step 3 is not configured properly, data will not be sent to the integration when events occur.
 
-{% note %}
-**Important:** Incorrect configuration of these settings will prevent the integration from functioning properly.
-{% endnote %}
+{% important %}
+Incorrect configuration of these settings will prevent the integration from functioning properly.
+{% endimportant %}
 
 ## Actions
 
